@@ -5,5 +5,5 @@ jobs:
   run-shell-command:
     runs-on: ubuntu-lastest
     steps:
-      - name: Echo a String
-      - run: echo "Hello world!"
+      - name: Echo String
+        run: echo "Hello World!"
